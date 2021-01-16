@@ -1,0 +1,13 @@
+name: college-insights
+title:
+username:
+account: college-insights
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1504743
+bundleId: 2634050
+url: https://college-insights.shinyapps.io/college-insights/
+when: 1575331358.44837
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md|TEST.r|data/.DS_Store|data/college-data.csv|data/degrees-that-pay-back.csv|data/proposal_image_1.png|data/proposal_image_2.png|www/.DS_Store|www/fareed_picture.png
